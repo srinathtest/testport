@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Srinath Chiranjeevi</title>
+    <link>https://srinathtest.github.io/testport/tags/</link>
+    <description>Recent content in Tags on Srinath Chiranjeevi</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://srinathtest.github.io/testport/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Deep Learning and Computer Vision</title>
+      <link>https://srinathtest.github.io/testport/tags/deep-learning-and-computer-vision/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://srinathtest.github.io/testport/tags/deep-learning-and-computer-vision/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning</title>
+      <link>https://srinathtest.github.io/testport/tags/machine-learning/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://srinathtest.github.io/testport/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Natural Language Processing</title>
+      <link>https://srinathtest.github.io/testport/tags/natural-language-processing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://srinathtest.github.io/testport/tags/natural-language-processing/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

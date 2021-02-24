@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Deep Learning and Computer Vision on Srinath Chiranjeevi</title>
+    <link>https://srinathtest.github.io/testport/tags/deep-learning-and-computer-vision/</link>
+    <description>Recent content in Deep Learning and Computer Vision on Srinath Chiranjeevi</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Jan 2021 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://srinathtest.github.io/testport/tags/deep-learning-and-computer-vision/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Facial Emotion Recognition</title>
+      <link>https://srinathtest.github.io/testport/project/facial-emotion/</link>
+      <pubDate>Wed, 27 Jan 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://srinathtest.github.io/testport/project/facial-emotion/</guid>
+      <description>&lt;p&gt;I have used TensorFlow framework to train the 4 blocks of Convolutional neural network on facial emotion images,
+where in each block consists of Convolutional layer, Activation function as Exponential Linear Unit (elu) and
+‘SoftMax’ for the last layer, Batch Normalization, Max Pooling layer, Dropout for preventing the neural network
+from overfitting the model and Optimizer as Adam Optimizer. The model was trained for 200 epochs and accuracy
+achieved was 70.12%. This model was converted to .h5 file in order to test the model with live feed data. I used
+OpenCV to capture the human face and recognize the emotion.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>End-to-End Image Classification using Transfer Learning</title>
+      <link>https://srinathtest.github.io/testport/project/imageclassification/</link>
+      <pubDate>Sun, 20 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://srinathtest.github.io/testport/project/imageclassification/</guid>
+      <description>&lt;p&gt;Simple web application to visualize the ImageNet image database made using Flask and deployed in Heroku App.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Driver Drowsiness Detection</title>
+      <link>https://srinathtest.github.io/testport/project/driverdrowsiness/</link>
+      <pubDate>Sun, 18 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://srinathtest.github.io/testport/project/driverdrowsiness/</guid>
+      <description>&lt;p&gt;For the task of driver drowsiness detection, I used SSD MobileNet V1 (Pre-Trained) detection model and I trained
+it to detect human eyes open and eyes closed. Eyes open (Not_drowsy) and eyes closed(drowsy) were treated as
+two separate classes. The incoming video stream was taken from a camera and passed through the model and
+the model will predict drowsy if driver’s eyes are closed and predicts Not_drowsy if his eyes are open. If the eyes
+of the driver are detected to be closed for 7 successive frames or for 5 seconds in the incoming video stream the
+proposed system would declare the driver to be drowsy, and an alarm will be generated to wake up the driver.
+This is done to prevent accidents at high speeds because in such situations a few seconds of carelessness can
+result in a fatal accident. Achieved an accuracy of 88.9%.
+Face Mask&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Face Mask Detection</title>
+      <link>https://srinathtest.github.io/testport/project/facemask/</link>
+      <pubDate>Mon, 15 Jun 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://srinathtest.github.io/testport/project/facemask/</guid>
+      <description>&lt;p&gt;An Object detection model using TensorFlow object detection API which detects if a person is wearing a mask
+or not. I have collected the dataset from Kaggle. I used pre-trained model Faster R-CNN Inception ResNet V2.
+Accuracy achieved was 96.7%.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors on Srinath Chiranjeevi</title>
+    <link>https://srinathtest.github.io/testport/authors/</link>
+    <description>Recent content in Authors on Srinath Chiranjeevi</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    
+	    <atom:link href="https://srinathtest.github.io/testport/authors/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://srinathtest.github.io/testport/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://srinathtest.github.io/testport/authors/admin/</guid>
+      <description>&lt;p&gt;A Deep Learning and Data Science enthusiast. Skilled in Machine Learning, Deep Learning, Data Analysis and Python. My primary skill domain is Computer Vision.
+I&amp;rsquo;m currently pursuing  my Bachelor&amp;rsquo;s degree in Computer Science with Specialization in Artificial Intelligence and Machine Learning from Vellore Institute of Technology, Bhopal.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Artificial Intelligence is the new Electricity&amp;rdquo; - Andrew Ng&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

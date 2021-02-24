@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Machine Learning on Srinath Chiranjeevi</title>
+    <link>https://srinathtest.github.io/testport/tags/machine-learning/</link>
+    <description>Recent content in Machine Learning on Srinath Chiranjeevi</description>
+    <generator>Source Themes academia (https://sourcethemes.com/academic/)</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 21 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	    <atom:link href="https://srinathtest.github.io/testport/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Indian Domestic Flight Price Prediction</title>
+      <link>https://srinathtest.github.io/testport/project/flightprice/</link>
+      <pubDate>Thu, 21 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://srinathtest.github.io/testport/project/flightprice/</guid>
+      <description>&lt;p&gt;Flight ticket prices can be something hard to guess, today we might see a one price and when we check out the
+price of the same flight tomorrow, it will be different. We all know that that flight ticket prices are so
+unpredictable. So, I decided to predict the prices of flight tickets for various airlines using Machine Learning and
+Deployed it in Heroku WebApp using Flask. The train data accuracy was 85% and test data accuracy as 81%.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Exploratory Data Analysis on Zomato Dataset</title>
+      <link>https://srinathtest.github.io/testport/project/dataanalysis/</link>
+      <pubDate>Fri, 15 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://srinathtest.github.io/testport/project/dataanalysis/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;Analysing the Business Problem of Zomato to get a fair idea about the factors affecting the establishment of&lt;/li&gt;
+&lt;li&gt;different types of restaurant at different places in Bengaluru.&lt;/li&gt;
+&lt;li&gt;Regression Analysis: Linear Regression, Decision Tree Regression, Random Forest Regression.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
